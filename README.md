@@ -1,5 +1,5 @@
 ### Matej Varga
-[![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvarga1989@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvarga1989@gmail.com)
 [![Linkedin profile Badge](https://img.shields.io/badge/-Matej%20Varga-0077B5?style=plastic&logo=Linkedin&logoColor=white)](http://hr.linkedin.com/in/vargamatej)
 [![ORCID Badge](https://img.shields.io/badge/-0000--0002--3453--169X-A6CE39?style=plastic&logo=ORCID&logoColor=white)](http://orcid.org/0000-0002-3453-169X)
 [![ResearchGate profile Badge](http://img.shields.io/badge/--00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matej_Varga)
