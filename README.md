@@ -61,12 +61,12 @@ I am working on projects funded by the European Organization for Nuclear Researc
 
 ## Professional Interests and Activities
 
-My broad interests are geospatial sciences, specifically geodesy and geomatics. Among the interests I have are engineering, satellite, physical, and geometric geodesy, including:
+My professional interests are in geospatial sciences, focusing on engineering, satellite, physical, and geometric geodesy. My specific interests are:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS and navigation;
 - geodetic networks;
-- interdisciplinary 3D reality digitization;
+- interdisciplinary 3D reality digitization and virtual reality;
 - geodetic monitoring of infrastructural, industrial and environmental objects;
 - gravity and magnetic field modelling;
 - geoid modelling.
