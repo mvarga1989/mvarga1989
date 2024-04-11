@@ -111,9 +111,7 @@ I am accepting the supervision of independent, responsible and motivated interna
 
 Topics are not necessarily predetermined and can be adapted to student's own preferences and ideas. Most of the topics can be taken as either a bachelor or master’s thesis, or adapted as a Master project.
 
-Please note that I will only supervise **English-written theses**.
-
-Interested? [Reach out to me!](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry=Thank%20you)
+Interested? [Reach out to me!](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
 
 #### Own topics
 
@@ -131,7 +129,8 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision
-- [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/),  Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić,  Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
+I have been very grateful and happy to students who have picked me as their supervisor. They were as follows:
+- [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić,  Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 
 ## Community lists that I am maintaining
 - Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling ([link](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git))
