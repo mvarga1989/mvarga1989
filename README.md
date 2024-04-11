@@ -46,11 +46,11 @@ Please find my CV [**here**](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW
 - [Twitter](https://twitter.com/mvarga17)
 
 ## News
-- [**2024/02/15**]: Leading several student projects, including (i)smartphone navigation using ML and factor graph optimization, (ii) total station and laser scanning calibration, and (iii) 3D modelling of Lausanne Cathedral.
+- [**2024/02/15**]: Leading several student projects, including (i)smartphone navigation using ML and factor graph optimization, (ii) total station and laser scanning testing and calibration, and (iii) 3D modelling of Lausanne Cathedral.
 - [**2024/02/01**]: Teaching Engineering Geodesy to ETHZ MSc students during the spring/summer semester.
 - [**2023/11/17**]: Presentation at the 21st Swiss Geoscience Meeting in Mendrisio, Switzerland, titled "Concept development of the Swiss national geomagnetic networks". [presentation](http://tiny.cc/delfvz)
 - [**2023/09/25**]: Teaching Geospatial Reference Systems to ETHZ MSc students during the autumn/winter semester.
-- [**2023/09/21**]: Supervising a student in creating an interactive 3D model of the cultural heritage site from laser scanning and RGB data during autumn/winter semester.
+- [**2023/09/21**]: Supervising a student in creating an interactive 3D model of the cultural heritage site from laser scanning and RGB data during the autumn/winter semester.
 - [**2023/08/30**]: Presentation on the CERN Geodetic Advisory Board titled 'Concept for calibration, control, and tests of the geodetic equipment along with the description of the required facilities for FCC, Overview & Discussion'.
 - [**2023/05-2023/09**]: Working on the project "Concept for calibration, control and tests of the geodetic equipment along with the description of the required facilities for FCC".
 - [**2022/06/01**]: Presentation titled "FCC coordinate reference and networks" on the CERN Future Circular Collider(FCC) week in Paris, France.
@@ -72,6 +72,7 @@ My professional interests are in geospatial sciences, focusing on engineering, s
 - geoid modelling.
 
 ### Selected Contributions
+There are the selected research contributions, picked up from the numerous projects on which I have been working on:
 - geoid and gravity field models of the Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea
 - proposal for the modernization of the Croatian height reference system
 - development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide
@@ -103,13 +104,13 @@ My professional interests are in geospatial sciences, focusing on engineering, s
 
 ### Academic and industry collaborations
 
-I am actively involved in R&D and consultancy projects as the principal researcher. Additionally, I perform expert and target specific lecturing, training and capacity building for professionals and scientist coming from different backgrounds.
+I am actively involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
 ### Supervising students and researchers
 
 I am accepting the supervision of independent, responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.
 
-Topics are not necessarily predetermined and can be adapted to student's own preferences and ideas. Most of the topics can be taken as either a bachelor or master’s thesis, or adapted as a Master project.
+Topics are not necessarily predetermined and can be adapted to student's preferences and ideas. Most of the topics can be taken as either a Bachelor's or Master’s thesis, or adapted as a Master's project.
 
 Interested? [Reach out to me!](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
 
@@ -129,7 +130,7 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision
-I have been very grateful and happy to students who have picked me as their supervisor. They were as follows:
+My experience supervising and consulting students has been very rewarding. The following students were among them:
 - [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić,  Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 
 ## Community lists that I am maintaining
