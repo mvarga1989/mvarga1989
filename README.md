@@ -103,17 +103,22 @@ My professional interests are in geospatial sciences, focusing on engineering, s
 
 ### Academic and industry collaborations
 
-I am actively involved in R&D and consultancy projects as the principal researcher, as well as in lecturing and capacity building.
+I am actively involved in R&D and consultancy projects as the principal researcher. Additionally, I perform expert and target specific lecturing, training and capacity building for professionals and scientist coming from different backgrounds.
 
 ### Supervising students and researchers
 
 I am accepting the supervision of independent, responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.
 
+Topics are not necessarily predetermined and can be adapted to student's own preferences and ideas. Most of the topics can be taken as either a bachelor or master’s thesis, or adapted as a Master project. If you have ideas and wish to pursue your topic within my research scope, please send me a brief research plan.
+
+Please note that I will only supervise English-written theses.
+
+Interested? Reach out to me! [Click here to send me an email](mailto://vargam@ethz.ch?Subject=Thesis inquiry=Thank%20you)
 #### Own topics
 
-If you have ideas and wish to pursue your topic within my research scope, please send me a brief research plan.
-
 #### Offered (open) topics
+
+Currently, the following topics are open:
 - 3D model of the Lausanne cathedral ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/3D_model_cathedral_ETH_GSEG.pdf)) <em><strong>in progress, fall semester/23, additional students possible</strong></em>
 - GNSS-smartphone navigation in urban environments using machine learning techniques ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/GNSS_smartphone_navigation_ETH_GSEG.pdf)) **reserved, spring semester/24, additional students possible**
 - Automate scanning-based deformation monitoring of the MAST facility at ETH ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/FS2023/MSc_Topics_FS2023_GSEG_7.pdf))
