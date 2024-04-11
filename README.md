@@ -111,9 +111,9 @@ I am accepting the supervision of independent, responsible and motivated interna
 
 Topics are not necessarily predetermined and can be adapted to student's own preferences and ideas. Most of the topics can be taken as either a bachelor or master’s thesis, or adapted as a Master project. If you have ideas and wish to pursue your topic within my research scope, please send me a brief research plan.
 
-Please note that I will only supervise English-written theses.
+Please note that I will only supervise **English-written theses**.
 
-Interested? Reach out to me! [Click here to send me an email](mailto://vargam@ethz.ch?Subject=Thesis inquiry=Thank%20you)
+Interested? [Reach out to me!](mailto://vargam@ethz.ch?Subject=Thesis inquiry=Thank%20you)
 #### Own topics
 
 #### Offered (open) topics
