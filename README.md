@@ -57,16 +57,16 @@ Please find my CV [**here**](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW
 
 
 ## Recent Projects
-I am working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
+I am mainly working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
 
 ## Professional Interests and Activities
 
-My professional interests are in geospatial sciences, focusing on engineering, satellite, physical, and geometric geodesy. My specific interests are:
+My professional interests are in geospatial sciences. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy. These fields have tremendeous potential for complementarity in large number of other disciplines. Thus, I have been working on the projects with professionaly from many other discplines, such as geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. My specific  strenthts are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS and navigation;
 - geodetic networks;
-- interdisciplinary 3D reality digitization and virtual reality;
+- 3D reality digitization and modelling;
 - geodetic monitoring of infrastructural, industrial and environmental objects;
 - gravity and magnetic field modelling;
 - geoid modelling.
@@ -130,7 +130,7 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision
-My experience supervising and consulting students has been very rewarding. The following students were among them:
+I have been supervising and supporting students in various unique projects. The following students are among those with whom I have had great joy working:
 - [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić,  Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 
 ## Community lists that I am maintaining
