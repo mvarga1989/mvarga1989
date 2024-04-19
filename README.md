@@ -134,7 +134,7 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision
-I have been enjoying supervising and supporting many students in various unique projects. I have been working with the following people:
+I have been enj:blush:ying supervising and supporting many students in various unique projects. I have been working with the following people:
 
 - Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
