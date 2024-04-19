@@ -130,17 +130,40 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision
-I have been supervising and supporting students in various unique projects. The following students are among those with whom I have had great joy working:
-- [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić,  Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
+I have been enjoying supervising and supporting many students in various unique projects. I have been working with the following people:
+- [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
+- Nils Meier
+- Nando Grossenbacher
+- Merlin Alfredsson
+- [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/)
+- [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/)
+- [Felix Piringer](https://www.linkedin.com/in/felixpiringer/)
+- [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/)
+- Šime Skočić
+- Sara Flegar
+- [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/)
+- [Igor Grgac](https://www.linkedin.com/in/igrgac/)
+- Ivana Vidić
+- Matea Vidaković
+- Andrea Bašić
+- Mia Lozo
+- Antonio David Šiško
+- Thomas Denich-Balog
 
 ## Community lists that I am maintaining
-- Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling ([link](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git))
 - Job opportunities in geosciences and geospatial industry ([link](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
+- Geospatial events (conferences, workshops) ([link](https://github.com/mvarga1989/Geoevents.git))
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics ([link](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals))
 - Geospatial and geomatics industry blogs, magazines and websites ([link](https://github.com/mvarga1989/The-list-of-geospatial-magazines))
-- Free smartphone GNSS datasets ([link](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets))
+
+- Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling ([link](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git))
+- Terrestrial, airborne and handheld laser scanners and software ([link](https://github.com/mvarga1989/Awesome_Laser_scanners))
+
+- Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ([link](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets))
 - GNSS CORS networks ([link](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks))
 - GNSS receiver manufacturers ([link](https://github.com/mvarga1989/Awesome_GNSSreceivers))
+- GNSS tables (clocks, ephemeris, antennas) ([link](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables))
+
 
 ## GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/mvarga1989?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
