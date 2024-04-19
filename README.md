@@ -2,7 +2,7 @@
 
 # Hi 👋! I am Matej Varga
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
-
+- [Feel free to reach out!](mailto:mvarga1989@gmail.com?Subject=Inquiry)
 ## Contents
   - [Introduction](#introduction)
   - [Contact](#contact)
@@ -61,9 +61,9 @@ I am mainly working on projects funded by the European Organization for Nuclear 
 
 ## Professional Interests and Activities
 
-My professional interests are in geospatial sciences. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy. These fields have a tremendous potential for complementarity in large number of other disciplines. Thus, I have been working on the projects with professionally from many other disciplines, such as geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. 
+My professional interests are in geospatial sciences. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy, which are fields that have an enormous potential for complementarity in a vast number of other disciplines and areas. Thus, I have been intensively working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. 
 
-My specific interest have been in:
+My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS and navigation;
@@ -108,7 +108,7 @@ There are the selected research contributions, picked up from the numerous proje
 
 I am actively involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
-Interested to collaborate with me? [Feel free to reach out!](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
+Interested in collaborating with me? [Feel free to reach out!](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
 ### Supervising students and researchers
 
