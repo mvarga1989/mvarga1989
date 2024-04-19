@@ -2,7 +2,7 @@
 
 # Hi 👋! I am Matej Varga
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
-- [Feel free to reach out!](mailto:mvarga1989@gmail.com?Subject=Inquiry)
+- [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
 ## Contents
   - [Introduction](#introduction)
   - [Contact](#contact)
