@@ -135,6 +135,8 @@ The following topics are open at the moment:
 
 ### Students graduated or worked under my supervision
 I have been enjoying supervising and supporting many students in various unique projects. I have been working with the following people:
+
+- Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
 - Nils Meier
 - Nando Grossenbacher
@@ -156,18 +158,18 @@ I have been enjoying supervising and supporting many students in various unique 
 
 ## Community lists that I am maintaining
 
-### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
+#### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
 
-### If my content has added any value to your work, please consider giving it a star and/or share on your professional social networks. Thank you!
+#### If my content has added any value to your work, please consider giving it a star and/or share on your professional social networks. Thank you!
+
+
 
 - Job opportunities in geosciences and geospatial industry ([link](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
 - Geospatial events (conferences, workshops) ([link](https://github.com/mvarga1989/Geoevents.git))
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics ([link](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals))
 - Geospatial and geomatics industry blogs, magazines and websites ([link](https://github.com/mvarga1989/The-list-of-geospatial-magazines))
-
 - Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling ([link](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git))
 - Terrestrial, airborne and handheld laser scanners and software ([link](https://github.com/mvarga1989/Awesome_Laser_scanners))
-
 - Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ([link](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets))
 - GNSS CORS networks ([link](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks))
 - GNSS receiver manufacturers ([link](https://github.com/mvarga1989/Awesome_GNSSreceivers))
