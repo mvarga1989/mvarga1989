@@ -155,6 +155,11 @@ I have been enjoying supervising and supporting many students in various unique 
 - Thomas Denich-Balog
 
 ## Community lists that I am maintaining
+
+### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
+
+### If my content has added any value to your work, please consider giving it a star and/or share on your professional social networks. Thank you!
+
 - Job opportunities in geosciences and geospatial industry ([link](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
 - Geospatial events (conferences, workshops) ([link](https://github.com/mvarga1989/Geoevents.git))
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics ([link](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals))
