@@ -1,6 +1,6 @@
 [<img src="https://github.com/mvarga1989/mvarga1989/blob/main/Twitter_heading-min.png"/>]()
 
-# Hi 👋! I am Matej Varga
+# Hi 👋! I am Matej Varga and this is my homepage
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
 - [Reach out via :e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
 ## Contents
@@ -61,7 +61,7 @@ I am mainly working on projects funded by the European Organization for Nuclear 
 
 ## Professional Interests and Activities
 
-My professional interests are in geospatial sciences. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy, which are fields that have an enormous potential for complementarity in a vast number of other disciplines and areas. Thus, I have been intensively working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. 
+My professional interests lie in geospatial sciences and industry. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy, which are fields that have an enormous potential for complementarity in a vast number of other disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. 
 
 My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
@@ -108,15 +108,15 @@ There are the selected research contributions, picked up from the numerous proje
 
 I am actively involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
-Interested in collaborating with me? [Reach out via :e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
+Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
 ### Supervising students and researchers
 
-I am accepting the supervision of independent, responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.
+I am accepting the supervision of responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.
 
 Topics are not necessarily predetermined and can be adapted to student's preferences and ideas. Most of the topics can be taken as either a Bachelor's or Master’s thesis, or adapted as a Master's project.
 
-Interested? [Reach out via :e-mail:](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
+Interested? Reach out via[:e-mail:](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
 
 #### Own topics
 
@@ -158,9 +158,9 @@ I have been enjoying leading and supervising many students in various unique pro
 
 ## Community lists that I am maintaining
 
-#### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
+#### You wish to assist in making the list more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
-#### If my content has added any value to your work, please consider giving it a star and/or share on your professional social networks. Thank you!
+#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
 
 
 
