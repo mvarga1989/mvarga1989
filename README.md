@@ -2,7 +2,7 @@
 
 # Hi 👋! I am Matej Varga
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
-- [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
+- [Reach out via :e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
 ## Contents
   - [Introduction](#introduction)
   - [Contact](#contact)
@@ -108,7 +108,7 @@ There are the selected research contributions, picked up from the numerous proje
 
 I am actively involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
-Interested in collaborating with me? [Feel free to reach out!](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
+Interested in collaborating with me? [Reach out via :e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
 ### Supervising students and researchers
 
@@ -116,7 +116,7 @@ I am accepting the supervision of independent, responsible and motivated interna
 
 Topics are not necessarily predetermined and can be adapted to student's preferences and ideas. Most of the topics can be taken as either a Bachelor's or Master’s thesis, or adapted as a Master's project.
 
-Interested? [Reach out to me!](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
+Interested? [Reach out via :e-mail:](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
 
 #### Own topics
 
@@ -133,8 +133,8 @@ The following topics are open at the moment:
 - Utilizing low-cost receivers and free GNSS processing software in establishing control geodetic networks ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/GNSS_control_geodetic_networks_ETH_GSEG.pdf))
 
 
-### Students graduated or worked under my supervision
-I have been enj :blush: ying supervising and supporting many students in various unique projects. I have been working with the following people:
+### Students graduated or worked under my supervision :blush:
+I have been enjoying leading and supervising many students in various unique projects. I had the pleasure of working with the following people:
 
 - Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
