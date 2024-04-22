@@ -2,7 +2,7 @@
 
 # Hi 👋! I am Matej Varga and this is my homepage
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
-- [Reach out via :e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
+- Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
 ## Contents
   - [Introduction](#introduction)
   - [Contact](#contact)
@@ -61,7 +61,7 @@ I am mainly working on projects funded by the European Organization for Nuclear 
 
 ## Professional Interests and Activities
 
-My professional interests lie in geospatial sciences and industry. I am searching for implementation of novel theoretical implementations and using them in original applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy, which are fields that have an enormous potential for complementarity in a vast number of other disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture. 
+My professional interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am focusing on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
 My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
@@ -73,8 +73,8 @@ My specific interests are in:
 - gravity and magnetic field modelling;
 - geoid modelling.
 
-### Selected Contributions
-There are the selected research contributions, picked up from the numerous projects on which I have been working on:
+### Research portfolio
+I have selected the following contributions from my research portfolio:
 - geoid and gravity field models of the Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea
 - proposal for the modernization of the Croatian height reference system
 - development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide
@@ -106,7 +106,7 @@ There are the selected research contributions, picked up from the numerous proje
 
 ### Academic and industry collaborations
 
-I am actively involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
+I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
 Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
@@ -116,7 +116,7 @@ I am accepting the supervision of responsible and motivated internal (ETHZ) and 
 
 Topics are not necessarily predetermined and can be adapted to student's preferences and ideas. Most of the topics can be taken as either a Bachelor's or Master’s thesis, or adapted as a Master's project.
 
-Interested? Reach out via[:e-mail:](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
+Interested? Reach out via [:e-mail:](mailto:vargam@ethz.ch?Subject=Thesis%20inquiry)
 
 #### Own topics
 
@@ -134,7 +134,7 @@ The following topics are open at the moment:
 
 
 ### Students graduated or worked under my supervision :blush:
-I have been enjoying leading and supervising many students in various unique projects. I had the pleasure of working with the following people:
+I have enjoyed leading and supervising many students in unique projects. I have had the pleasure of working with the following people:
 
 - Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
@@ -159,10 +159,6 @@ I have been enjoying leading and supervising many students in various unique pro
 ## Community lists that I am maintaining
 
 #### You wish to assist in making the list more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
-
-#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
-
-
 
 - Job opportunities in geosciences and geospatial industry ([link](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
 - Geospatial events (conferences, workshops) ([link](https://github.com/mvarga1989/Geoevents.git))
