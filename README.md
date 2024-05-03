@@ -32,8 +32,8 @@ Interested in academic or industry collaboration?
 #### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
-- Job opportunities in geosciences and geospatial industry ![](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
-- Geospatial events (conferences, workshops) ![](https://github.com/mvarga1989/Geoevents.git)
+- Job opportunities in geosciences and geospatial industry [](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
+- Geospatial events (conferences, workshops) [](https://github.com/mvarga1989/Geoevents.git)
 
 ### Knowledge, data, publications
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics ![](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals)
