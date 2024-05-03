@@ -45,9 +45,9 @@ Interested in academic or industry collaboration?
 
 ### GNSS
 - Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ![:link:](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
-- GNSS CORS networks ![:link:](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
-- GNSS receiver manufacturers ![:link:](https://github.com/mvarga1989/Awesome_GNSSreceivers)
-- GNSS tables (clocks, ephemeris, antennas) ![:link:](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
+- GNSS CORS networks [:link:](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
+- GNSS receiver manufacturers [:link:](https://github.com/mvarga1989/Awesome_GNSSreceivers)
+- GNSS tables (clocks, ephemeris, antennas) [:link:](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
 
 
 ## GitHub Metrics
