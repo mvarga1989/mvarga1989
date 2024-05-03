@@ -32,22 +32,22 @@ Interested in academic or industry collaboration?
 #### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
-- Job opportunities in geosciences and geospatial industry ([](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
-- Geospatial events (conferences, workshops) ([](https://github.com/mvarga1989/Geoevents.git))
+- Job opportunities in geosciences and geospatial industry ![](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
+- Geospatial events (conferences, workshops) ![](https://github.com/mvarga1989/Geoevents.git)
 
 ### Knowledge, data, publications
-- Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics [](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals)
-- Geospatial and geomatics industry blogs, magazines and websites [](https://github.com/mvarga1989/The-list-of-geospatial-magazines)
+- Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics ![](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals)
+- Geospatial and geomatics industry blogs, magazines and websites ![](https://github.com/mvarga1989/The-list-of-geospatial-magazines)
 
 ### Reality capture
-- Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling [](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git)
-- Terrestrial, airborne and handheld laser scanners and software [](https://github.com/mvarga1989/Awesome_Laser_scanners)
+- Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling ![](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git)
+- Terrestrial, airborne and handheld laser scanners and software ![](https://github.com/mvarga1989/Awesome_Laser_scanners)
 
 ### GNSS
-- Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms [](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
-- GNSS CORS networks [](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
-- GNSS receiver manufacturers [](https://github.com/mvarga1989/Awesome_GNSSreceivers)
-- GNSS tables (clocks, ephemeris, antennas) [](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
+- Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ![](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
+- GNSS CORS networks ![](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
+- GNSS receiver manufacturers ![](https://github.com/mvarga1989/Awesome_GNSSreceivers)
+- GNSS tables (clocks, ephemeris, antennas) ![](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
 
 
 ## GitHub Metrics
