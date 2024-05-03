@@ -44,10 +44,10 @@ Interested in academic or industry collaboration?
 - Terrestrial, airborne and handheld laser scanners and software ![](https://github.com/mvarga1989/Awesome_Laser_scanners)
 
 ### GNSS
-- Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ![](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
-- GNSS CORS networks ![](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
-- GNSS receiver manufacturers ![](https://github.com/mvarga1989/Awesome_GNSSreceivers)
-- GNSS tables (clocks, ephemeris, antennas) ![](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
+- Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms ![:link:](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
+- GNSS CORS networks ![:link:](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
+- GNSS receiver manufacturers ![:link:](https://github.com/mvarga1989/Awesome_GNSSreceivers)
+- GNSS tables (clocks, ephemeris, antennas) ![:link:](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
 
 
 ## GitHub Metrics
