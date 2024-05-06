@@ -3,8 +3,8 @@
 # Hi 👋! I am Matej Varga and this is my Github repository. 
 I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by Prof. Dr. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 - Homepage is available here [:link:](https://mvarga1989.github.io/Matej_Varga/).
-- CV is [**here**](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW43bnJaSFk/view?usp=sharing&resourcekey=0-ESGCxB8uDrtY4nJ2B8ws0w).
-- All personal links (linktree) are [**here**](https://mvarga1989.github.io/mvarga1989_linktree/).
+- CV  is available here [:link:](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW43bnJaSFk/view?usp=sharing&resourcekey=0-ESGCxB8uDrtY4nJ2B8ws0w).
+- All personal links (linktree) are  available here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/).
 
 <!-- toc -->
 
@@ -43,7 +43,7 @@ Interested in academic or industry collaboration?
 
 ## Community lists that I maintain
 
-#### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+**You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).**
 
 ### Career
 - Job opportunities in geosciences and geospatial industry [:link:](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
