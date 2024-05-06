@@ -6,12 +6,12 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
 - CV  is available here [:link:](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW43bnJaSFk/view?usp=sharing&resourcekey=0-ESGCxB8uDrtY4nJ2B8ws0w).
 - All personal links (linktree) are  available here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/).
 
+## Table of contents
 <!-- toc -->
 
 - [Contact](#contact)
   * [Professional Networks](#professional-networks)
 - [Community lists that I maintain](#community-lists-that-i-maintain)
-    + [You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).](#you-wish-to-assist-in-making-lists-more-useful-complete-and-accurate-please-send-me-an-e-mailmailtomvarga1989gmailcom)
   * [Career](#career)
   * [Knowledge, data, publications](#knowledge-data-publications)
   * [Reality capture](#reality-capture)
