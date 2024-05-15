@@ -43,7 +43,7 @@ Interested in academic or industry collaboration?
 
 ## Community lists that I maintain
 
-**You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).**
+**You wish to assist in making lists more useful, complete and accurate? Please send me an e-mail [:e-mail:](mailto:mvarga1989@gmail.com).**
 
 ### Career
 - Job opportunities in geosciences and geospatial industry [:link:](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
